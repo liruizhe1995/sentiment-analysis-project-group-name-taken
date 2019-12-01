@@ -9,3 +9,5 @@ You have two deliverables:
 801989080477154944  positive
 
 Your notebook should be fully runnable when cloned to another computer such that your code executes without error. This is an element in the rubric, so have someone on the team test this.
+
+The link of the Medium post is: https://medium.com/@matthewliruizhe1995/what-you-should-know-about-airbnb-listings-in-seattle-d9967fb9a002
